@@ -54,4 +54,17 @@ ident
 rotate
 y 10
 apply
+line
+0 100 0 100 100 0
+line
+0 50 0 50 50 50
+rotate
+y 20
+rotate
+x 20
+rotate
+z 20
+apply
 display
+save
+pic.png
