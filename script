@@ -1,0 +1,57 @@
+line
+0 0 0 100 0 0
+line
+100 0 0 100 100 0
+line
+100 100 0 0 100 0
+line
+0 100 0 0 0 0
+line
+0 0 100 100 0 100
+line
+100 0 100 100 100 100
+line
+100 100 100 0 100 100
+line
+0 100 100 0 0 100
+line
+0 0 0 0 0 100
+line
+0 100 0 0 100 100
+line
+100 100 0 100 100 100
+line
+100 0 0 100 0 100
+line
+200 0 0 100 0 100
+line
+300 0 0 100 0 200
+line
+100 0 200 300 100 0
+line
+300 100 0 300 0 0
+display
+ident
+scale
+2 2 2
+apply
+display
+ident
+move
+100 100 0
+apply
+display
+ident
+rotate
+z 30
+rotate
+x 30
+rotate
+y 30
+apply
+display
+ident
+rotate
+y 10
+apply
+display
